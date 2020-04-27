@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+table {
+    width: 50%;
+    margin: 20% auto;
+    border: 2px solid black;
+    text-align: center;
+}
+
+th,
+td {
+    padding: 10px;
+    border: 1px solid black;
+}
+
+table img {
+    width: 100px;
+}
+
+thead,
+td:nth-child(2) {
+    font-weight: bolder;
+}
