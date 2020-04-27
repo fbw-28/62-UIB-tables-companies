@@ -1,0 +1,15 @@
+img {
+    width: 160px;
+    height: 70px;
+}
+table {
+    border: 4px solid black;
+    margin: 10% auto;
+}
+td, th {
+    border: 1px solid black;
+    padding: 15px;
+}
+.amazonimage {
+    border-radius: 10%;
+}
