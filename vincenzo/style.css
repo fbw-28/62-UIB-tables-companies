@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+table {
+  margin: 10% auto;
+  border: 4px solid #444;
+}
+
+td,
+th {
+  border: 1px solid #777;
+  text-align: center;
+  padding: 20px;
+}
+
+tbody tr:hover {
+  background: rgb(226, 225, 225);
+}
+
+img {
+  width: 150px;
+}
